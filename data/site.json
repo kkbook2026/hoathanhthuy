@@ -1,13 +1,13 @@
 {
  "meta": {
   "version": 2,
-  "updatedAt": "2026-10-30T09:00:00+07:00"
+  "updatedAt": "2026-10-30T16:00:00+07:00"
  },
  "settings": {
   "brand": "HOA THANH THÚY",
   "tagline": {
-   "vi": "Tiệm hoa tươi Đà Lạt",
-   "en": "Da Lat fresh flower atelier"
+   "vi": "Bán buôn & xuất khẩu hoa Đà Lạt",
+   "en": "Da Lat flower wholesale & export"
   },
   "subBrand": {
    "vi": "Đà Lạt · Mê Linh · Sapa",
@@ -22,44 +22,44 @@
   },
   "mapQuery": "Tô Ngọc Vân, Xuân Hương, Đà Lạt, Lâm Đồng",
   "hours": {
-   "vi": "Mở cửa 7:00 - 21:00 tất cả các ngày · Nhận đặt hoa qua Zalo 24/7",
-   "en": "Open 7:00 AM - 9:00 PM every day · Zalo orders 24/7"
+   "vi": "Mở cửa 7:00 - 21:00 tất cả các ngày · Nhận đơn sỉ & xuất khẩu qua Zalo 24/7",
+   "en": "Open 7:00 AM - 9:00 PM every day · Wholesale & export enquiries on Zalo 24/7"
   },
   "topbar": {
-   "vi": "Hoa Đà Lạt cắt vườn mỗi sáng|Kho lạnh tiêu chuẩn 2°C - 5°C|Gửi ảnh thật trước khi giao",
-   "en": "Da Lat flowers cut fresh every morning|Cold storage at 2°C - 5°C|Real photo before every delivery"
+   "vi": "Bán buôn hoa Đà Lạt cho cửa hàng toàn quốc|Xuất khẩu hoa tươi bằng đường hàng không|Chuỗi lạnh 2°C - 5°C từ vườn đến kho|Phân hạng A+ · A · B rõ ràng từng bó",
+   "en": "Da Lat wholesale flowers for florists nationwide|Fresh flowers exported by air|Cold chain at 2°C - 5°C from farm to dispatch|Clear A+ · A · B grading on every bunch"
   },
   "heroKicker": {
-   "vi": "Tiệm hoa Đà Lạt · Tô Ngọc Vân",
-   "en": "Da Lat flower atelier · To Ngoc Van Street"
+   "vi": "Nhà cung cấp hoa Đà Lạt · Bán buôn & Xuất khẩu",
+   "en": "Da Lat flower supplier · Wholesale & Export"
   },
   "heroTitle": {
-   "vi": "Mang cả khu vườn *Đà Lạt* đến bên bạn",
-   "en": "Bring a *Da Lat* garden into your life"
+   "vi": "Nguồn hoa *Đà Lạt* cho cửa hàng toàn quốc và thế giới",
+   "en": "*Da Lat* flowers for florists nationwide and worldwide"
   },
   "heroText": {
-   "vi": "Hoa hạng A cắt lúc sương sớm từ nông trại Vạn Thành, Thái Phiên, Lạc Dương, Cầu Đất. Nghệ nhân thiết kế tận tay và gửi ảnh thật để bạn duyệt trước khi giao.",
-   "en": "Grade-A stems cut at dawn from farms in Van Thanh, Thai Phien, Lac Duong and Cau Dat. Hand-designed by our florists, with a real photo sent for your approval before delivery."
+   "vi": "Hoa cắt cành hạng A+, A tuyển trực tiếp từ nhà vườn Vạn Thành, Thái Phiên, Lạc Dương, Cầu Đất. Phân hạng rõ ràng, tiền làm lạnh và đóng thùng chuẩn bán buôn, xuất kho trong ngày tới mọi tỉnh thành và các nhà nhập khẩu nước ngoài.",
+   "en": "Grade A+ and A cut flowers sourced straight from growers in Van Thanh, Thai Phien, Lac Duong and Cau Dat. Clearly graded, pre-cooled and packed to wholesale standard, dispatched the same day to every province of Vietnam and to importers abroad."
   },
   "priceNote": {
    "vi": "Giá hoa thay đổi theo mùa vụ và ngày lễ. Gọi hoặc nhắn Zalo để nhận báo giá chính xác trong vài phút.",
    "en": "Flower prices change with the season and holidays. Call or message us on Zalo for an exact quote within minutes."
   },
   "delivery": {
-   "vi": "Giao nhanh nội thành Đà Lạt · Gửi hoa lạnh đi toàn quốc",
-   "en": "Express delivery in Da Lat · Cold-chain shipping nationwide"
+   "vi": "Giao toàn quốc bằng xe lạnh, xe khách, hàng không · Xuất khẩu đi nước ngoài",
+   "en": "Nationwide by refrigerated truck, coach and air · Export worldwide"
   },
   "about": {
-   "vi": "HOA THANH THÚY là tiệm hoa tươi tại đường Tô Ngọc Vân, Đà Lạt. Chúng tôi chọn hoa trực tiếp từ các nông trại quanh Đà Lạt mỗi sáng, kết hợp đặc sản Mê Linh và Sapa, để mỗi bó hoa đến tay bạn đều tươi, đúng giống và đúng mùa.",
-   "en": "HOA THANH THUY is a fresh flower shop on To Ngoc Van Street, Da Lat. We pick flowers straight from farms around Da Lat every morning, together with specialties from Me Linh and Sapa, so every bouquet reaches you fresh, true to variety and in season."
+   "vi": "HOA THANH THÚY là nhà cung cấp hoa tươi Đà Lạt chuyên bán buôn cho cửa hàng hoa, đại lý và doanh nghiệp trên cả nước, đồng thời cung ứng hoa cắt cành cho các nhà nhập khẩu nước ngoài. Hoa được tuyển từ nhà vườn quanh Đà Lạt mỗi sáng, phân hạng, giữ lạnh và đóng gói theo yêu cầu của từng thị trường. Cửa hàng tại đường Tô Ngọc Vân vẫn nhận thiết kế hoa bán lẻ, hoa cưới và sự kiện.",
+   "en": "HOA THANH THUY is a Da Lat fresh flower supplier serving florists, distributors and businesses across Vietnam, and supplying cut flowers to importers abroad. Flowers are selected from growers around Da Lat every morning, graded, kept cold and packed to each market's requirements. Our shop on To Ngoc Van Street still designs retail bouquets, wedding and event flowers."
   },
   "seoTitle": {
-   "vi": "HOA THANH THÚY - Hoa tươi Đà Lạt, bó hoa, hoa khai trương, hoa cưới",
-   "en": "HOA THANH THUY - Da Lat fresh flowers, bouquets, opening stands, wedding flowers"
+   "vi": "HOA THANH THÚY - Bán buôn & xuất khẩu hoa tươi Đà Lạt",
+   "en": "HOA THANH THUY - Da Lat fresh flower wholesale & export"
   },
   "seoDesc": {
-   "vi": "Tiệm hoa tươi Đà Lạt tại Tô Ngọc Vân, Xuân Hương. Hoa cắt vườn mỗi sáng, bó hoa, giỏ hoa, kệ khai trương, hoa cưới, lan và bonsai Sapa. Gửi ảnh thật trước khi giao. Gọi/Zalo 0918.814.544.",
-   "en": "Fresh flower shop in Da Lat on To Ngoc Van Street. Garden-cut flowers every morning, bouquets, baskets, opening stands, wedding flowers, Sapa orchids and bonsai. Real photo before delivery. Call/Zalo +84 918 814 544."
+   "vi": "Nhà cung cấp hoa tươi Đà Lạt: bán buôn hoa cắt cành cho shop hoa toàn quốc, xuất khẩu hoa bằng đường hàng không, cung ứng định kỳ cho chuỗi bán lẻ, khách sạn, sự kiện. Chuỗi lạnh 2°C - 5°C. Gọi/Zalo 0918.814.544.",
+   "en": "Da Lat fresh flower supplier: wholesale cut flowers for florists nationwide, air-freight export, standing supply for retail chains, hotels and events. Cold chain at 2°C - 5°C. Call/Zalo +84 918 814 544."
   },
   "siteUrl": "https://www.hoathanhthuy.net",
   "facebook": "",
@@ -77,6 +77,7 @@
    "process": true,
    "services": true,
    "wholesale": true,
+   "export": true,
    "wiki": true,
    "gallery": true,
    "tracking": true,
@@ -3962,128 +3963,128 @@
  },
  "services": [
   {
-   "id": "wedding",
-   "icon": "ring",
-   "title": {
-    "vi": "Hoa cưới & trang trí tiệc",
-    "en": "Wedding flowers & styling"
-   },
-   "text": {
-    "vi": "Hoa cầm tay cô dâu, hoa cài áo, cổng hoa, bàn gallery và hoa bàn tiệc theo tông màu của bạn.",
-    "en": "Bridal bouquets, boutonnières, flower arches, gallery tables and table centrepieces in your colours."
-   }
-  },
-  {
-   "id": "opening",
-   "icon": "stand",
-   "title": {
-    "vi": "Kệ hoa khai trương & sự kiện",
-    "en": "Opening stands & events"
-   },
-   "text": {
-    "vi": "Kệ hoa, lẵng hoa, băng rôn in lời chúc; giao và lắp đặt đúng giờ.",
-    "en": "Flower stands, baskets and printed banners, delivered and set up on time."
-   }
-  },
-  {
-   "id": "office",
-   "icon": "calendar",
-   "title": {
-    "vi": "Hoa văn phòng định kỳ",
-    "en": "Office flower subscriptions"
-   },
-   "text": {
-    "vi": "Thay hoa sảnh, phòng họp hằng tuần; nghệ nhân chăm sóc tại chỗ.",
-    "en": "Weekly lobby and meeting-room flowers, cared for on site by our florists."
-   }
-  },
-  {
    "id": "wholesale",
    "icon": "bunch",
    "title": {
-    "vi": "Sỉ hoa cắt cành cho florist",
-    "en": "Wholesale stems for florists"
+    "vi": "Bán buôn hoa cắt cành toàn quốc",
+    "en": "Nationwide cut-flower wholesale"
    },
    "text": {
-    "vi": "Hoa và lá Đà Lạt hạng A đóng bó theo chuẩn nhà vườn, nhận đơn sỉ mỗi ngày.",
-    "en": "Grade-A Da Lat flowers and foliage bundled to farm standard, wholesale orders daily."
+    "vi": "Hồng, cúc, cát tường, cẩm chướng, cẩm tú cầu, baby và lá phụ hạng A+, A, B đóng bó chuẩn chợ hoa. Nhận đơn sỉ mỗi ngày cho shop hoa, đại lý và vựa hoa ở mọi tỉnh thành.",
+    "en": "Roses, chrysanthemums, lisianthus, carnations, hydrangeas, baby's breath and foliage in A+, A and B grades, bunched to flower-market standard. Wholesale orders every day for florists, distributors and flower markets in every province."
    }
   },
   {
-   "id": "ship",
+   "id": "export",
+   "icon": "plane",
+   "title": {
+    "vi": "Xuất khẩu hoa tươi",
+    "en": "Fresh flower export"
+   },
+   "text": {
+    "vi": "Cung ứng hoa cắt cành cho nhà nhập khẩu: phân hạng theo yêu cầu thị trường, tiền làm lạnh, đóng thùng xuất khẩu, phối hợp làm kiểm dịch thực vật, C/O và đặt chỗ hàng không.",
+    "en": "Cut flowers for importers: graded to each market's specification, pre-cooled, export-boxed, with phytosanitary certificates, C/O and air-cargo booking handled together with you."
+   }
+  },
+  {
+   "id": "contract",
+   "icon": "calendar",
+   "title": {
+    "vi": "Hợp đồng cung ứng định kỳ",
+    "en": "Standing supply contracts"
+   },
+   "text": {
+    "vi": "Giữ nguồn hàng ổn định theo lịch tuần, tháng hoặc mùa lễ cho chuỗi cửa hàng, siêu thị, khách sạn, resort và công ty sự kiện, với số lượng và quy cách ghi rõ trong hợp đồng.",
+    "en": "Reliable weekly, monthly or seasonal supply for retail chains, supermarkets, hotels, resorts and event companies, with quantities and specifications set out in the contract."
+   }
+  },
+  {
+   "id": "logistics",
    "icon": "truck",
    "title": {
-    "vi": "Gửi hoa đi tỉnh, thành phố",
-    "en": "Shipping across Vietnam"
+    "vi": "Chuỗi lạnh & vận chuyển toàn quốc",
+    "en": "Cold chain & nationwide logistics"
    },
    "text": {
-    "vi": "Đóng thùng giữ lạnh, gửi xe hoặc máy bay, cập nhật hình ảnh từng bước để bạn yên tâm.",
-    "en": "Cold-packed boxes sent by road or air, with photo updates at every step."
+    "vi": "Sơ chế, ngâm dưỡng, giữ lạnh 2°C - 5°C; gửi xe lạnh, xe khách, chành xe hoặc hàng không qua sân bay Liên Khương, kèm ảnh lô hàng và mã vận đơn để theo dõi.",
+    "en": "Conditioned, hydrated and held at 2°C - 5°C; shipped by refrigerated truck, coach, freight forwarder or air via Lien Khuong airport, with shipment photos and a tracking number."
    }
   },
   {
-   "id": "corporate",
-   "icon": "gift",
+   "id": "label",
+   "icon": "box",
    "title": {
-    "vi": "Quà tặng doanh nghiệp & Tết",
-    "en": "Corporate & Tet gifts"
+    "vi": "Đóng gói & nhãn riêng",
+    "en": "Custom packing & private label"
    },
    "text": {
-    "vi": "Chậu lan, bonsai mai, giỏ hoa và thiệp theo nhận diện thương hiệu của bạn.",
-    "en": "Orchid pots, plum bonsai, baskets and cards in your brand identity."
+    "vi": "Bó theo số cành, bọc sleeve in logo, dán nhãn mã lô và hướng dẫn bảo quản bằng tiếng Việt hoặc tiếng Anh cho siêu thị và chuỗi bán lẻ.",
+    "en": "Bunched to your stem count, logo-printed sleeves, batch labels and care instructions in Vietnamese or English for supermarkets and retail chains."
+   }
+  },
+  {
+   "id": "events",
+   "icon": "ring",
+   "title": {
+    "vi": "Hoa sự kiện, cưới & bán lẻ",
+    "en": "Events, weddings & retail"
+   },
+   "text": {
+    "vi": "Thiết kế hoa cưới, kệ khai trương, trang trí sự kiện và bó hoa bán lẻ tại cửa hàng Tô Ngọc Vân, Đà Lạt.",
+    "en": "Wedding flowers, opening stands, event styling and retail bouquets from our shop on To Ngoc Van Street, Da Lat."
    }
   }
  ],
  "process": [
   {
    "title": {
-    "vi": "Chọn hoa chuẩn nguồn gốc",
-    "en": "Flowers with known origins"
+    "vi": "Tuyển hoa & phân hạng tại vườn",
+    "en": "Selected and graded at the farm"
    },
    "text": {
-    "vi": "Hoa tuyển từ nông trại Đà Lạt, vựa Mê Linh và Sapa; ghi rõ vùng trồng trên từng mẫu.",
-    "en": "Picked from Da Lat farms, Me Linh growers and Sapa, with the growing area listed on every design."
+    "vi": "Cắt lúc sáng sớm tại nhà vườn đối tác, phân hạng A+, A, B theo chiều dài cành, độ nở và độ đồng đều của bông.",
+    "en": "Cut at dawn at partner farms and graded A+, A or B by stem length, bloom opening and uniformity."
    }
   },
   {
    "title": {
-    "vi": "Nghệ nhân thiết kế & viết thiệp tay",
-    "en": "Hand-designed, hand-written card"
+    "vi": "Tiền làm lạnh & dưỡng hoa",
+    "en": "Pre-cooling & hydration"
    },
    "text": {
-    "vi": "Mỗi bó hoa được phối riêng theo dịp tặng và lời nhắn của bạn.",
-    "en": "Every arrangement is composed for your occasion and your message."
+    "vi": "Ngâm dung dịch dưỡng, hạ nhiệt về 2°C - 5°C trong kho lạnh để hoa giữ độ tươi suốt hành trình.",
+    "en": "Hydrated in conditioning solution and brought down to 2°C - 5°C in cold storage to stay fresh for the whole journey."
    }
   },
   {
    "title": {
-    "vi": "Gửi ảnh thật để bạn duyệt",
-    "en": "A real photo for your approval"
+    "vi": "Đóng gói chuẩn bán buôn, xuất khẩu",
+    "en": "Packed to wholesale & export standard"
    },
    "text": {
-    "vi": "Tiệm chụp tác phẩm tại bàn florist và gửi qua Zalo hoặc mục Tra cứu đơn trước khi giao.",
-    "en": "We photograph the finished piece at the florist's bench and send it via Zalo or order tracking before delivery."
+    "vi": "Bó theo quy cách, bọc sleeve, xếp thùng carton chuyên dụng kèm đá gel; dán nhãn mã lô và phiếu đóng gói.",
+    "en": "Bunched to spec, sleeved, packed in purpose-made cartons with gel ice, batch-labelled and listed on a packing list."
    }
   },
   {
    "title": {
-    "vi": "Giao bằng túi giữ ẩm",
-    "en": "Delivered in a hydration bag"
+    "vi": "Vận chuyển chuỗi lạnh & theo dõi",
+    "en": "Cold-chain shipping & tracking"
    },
    "text": {
-    "vi": "Tặng kèm gói dưỡng hoa và thẻ QR hướng dẫn chăm sóc theo từng loại hoa.",
-    "en": "With flower food and a QR care card for every variety in your order."
+    "vi": "Xuất kho trong ngày, gửi ảnh lô hàng, mã vận đơn và cập nhật đến khi hàng tới cửa hàng hoặc sân bay đích.",
+    "en": "Dispatched the same day, with shipment photos, a tracking number and updates until it reaches your shop or destination airport."
    }
   }
  ],
  "wholesale": {
   "title": {
-   "vi": "Sỉ hoa tươi Đà Lạt cho cửa hàng & doanh nghiệp",
-   "en": "Da Lat wholesale flowers for shops & businesses"
+   "vi": "Bán buôn hoa tươi Đà Lạt cho cửa hàng toàn quốc",
+   "en": "Da Lat wholesale flowers for florists nationwide"
   },
   "intro": {
-   "vi": "Nguồn hoa cắt cành lấy trực tiếp từ nhà vườn Đà Lạt, phân hạng rõ ràng, đóng bó theo chuẩn chợ hoa và giữ lạnh 2°C - 5°C trước khi xuất kho. Giá sỉ thay đổi theo ngày nên tiệm báo giá trực tiếp qua Zalo hoặc điện thoại.",
-   "en": "Cut flowers sourced straight from Da Lat growers, clearly graded, bunched to flower-market standard and held at 2°C - 5°C before dispatch. Wholesale prices change daily, so we quote directly on Zalo or by phone."
+   "vi": "Nguồn hoa cắt cành lấy trực tiếp từ nhà vườn Đà Lạt, phân hạng A+, A, B rõ ràng, đóng bó chuẩn chợ hoa và giữ lạnh 2°C - 5°C trước khi xuất kho. Giao tới shop hoa, đại lý, vựa hoa và doanh nghiệp ở mọi tỉnh thành. Giá sỉ thay đổi theo ngày nên tiệm báo giá trực tiếp qua Zalo hoặc điện thoại.",
+   "en": "Cut flowers sourced straight from Da Lat growers, clearly graded A+, A or B, bunched to flower-market standard and held at 2°C - 5°C before dispatch. Delivered to florists, distributors, flower markets and businesses in every province. Wholesale prices change daily, so we quote directly on Zalo or by phone."
   },
   "audiences": [
    {
@@ -4094,8 +4095,14 @@
    },
    {
     "name": {
-     "vi": "Tiệm hoa các tỉnh",
-     "en": "Florists in other provinces"
+     "vi": "Đại lý, vựa hoa các tỉnh",
+     "en": "Provincial distributors & flower markets"
+    }
+   },
+   {
+    "name": {
+     "vi": "Chuỗi cửa hàng & siêu thị",
+     "en": "Retail chains & supermarkets"
     }
    },
    {
@@ -4112,14 +4119,8 @@
    },
    {
     "name": {
-     "vi": "Quán cà phê, spa, văn phòng",
-     "en": "Cafés, spas & offices"
-    }
-   },
-   {
-    "name": {
-     "vi": "Siêu thị & chuỗi bán lẻ",
-     "en": "Supermarkets & retail chains"
+     "vi": "Doanh nghiệp thương mại, nhập khẩu",
+     "en": "Traders & importers"
     }
    }
   ],
@@ -4149,23 +4150,23 @@
    {
     "icon": "truck",
     "title": {
-     "vi": "Giao tận nơi hoặc gửi xe",
-     "en": "Delivered or shipped"
+     "vi": "Giao toàn quốc",
+     "en": "Nationwide delivery"
     },
     "text": {
-     "vi": "Giao trong Đà Lạt; gửi xe khách, chành xe hoặc máy bay đi các tỉnh, thành.",
-     "en": "Delivered within Da Lat; shipped by coach, freight or air to other provinces."
+     "vi": "Xe lạnh, xe khách, chành xe đi các tỉnh; hàng không qua sân bay Liên Khương cho Hà Nội, Đà Nẵng và các tỉnh xa.",
+     "en": "Refrigerated trucks, coaches and freight forwarders to every province; air freight via Lien Khuong for Hanoi, Da Nang and distant provinces."
     }
    },
    {
     "icon": "calendar",
     "title": {
-     "vi": "Đơn định kỳ ổn định",
-     "en": "Standing orders"
+     "vi": "Đơn định kỳ, giữ hàng mùa lễ",
+     "en": "Standing orders & peak reservations"
     },
     "text": {
-     "vi": "Nhận đơn hằng ngày, 2 - 3 lần mỗi tuần hoặc theo lịch sự kiện của bạn.",
-     "en": "Daily, two or three times a week, or on your event schedule."
+     "vi": "Nhận đơn hằng ngày, 2 - 3 lần mỗi tuần hoặc theo hợp đồng; giữ hàng trước cho các dịp cao điểm.",
+     "en": "Daily, two or three times a week or by contract, with stock reserved ahead of peak dates."
     }
    }
   ],
@@ -4857,98 +4858,610 @@
      "#8DB5A7"
     ],
     "visible": true
+   },
+   {
+    "id": "ws17",
+    "name": {
+     "vi": "Cúc chùm (cúc lưới) nhiều màu",
+     "en": "Spray chrysanthemum, mixed colours"
+    },
+    "grade": {
+     "vi": "A · B",
+     "en": "A · B"
+    },
+    "pack": {
+     "vi": "Bó 10 cành hoặc theo kg",
+     "en": "Bunch of 10 or by weight"
+    },
+    "length": {
+     "vi": "70 - 80 cm",
+     "en": "70 - 80 cm"
+    },
+    "vase": {
+     "vi": "14 - 20 ngày",
+     "en": "14 - 20 days"
+    },
+    "months": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "art": [
+     "daisy",
+     "#FFFFFF"
+    ],
+    "visible": true
+   },
+   {
+    "id": "ws18",
+    "name": {
+     "vi": "Cúc pingpong (cúc ball)",
+     "en": "Ping-pong chrysanthemum"
+    },
+    "grade": {
+     "vi": "A · B",
+     "en": "A · B"
+    },
+    "pack": {
+     "vi": "Bó 10 cành",
+     "en": "Bunch of 10"
+    },
+    "length": {
+     "vi": "60 - 70 cm",
+     "en": "60 - 70 cm"
+    },
+    "vase": {
+     "vi": "14 - 20 ngày",
+     "en": "14 - 20 days"
+    },
+    "months": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "art": [
+     "pingpong",
+     "#B8E07A"
+    ],
+    "visible": true
+   },
+   {
+    "id": "ws19",
+    "name": {
+     "vi": "Cẩm chướng đơn & chùm",
+     "en": "Standard & spray carnation"
+    },
+    "grade": {
+     "vi": "A · B",
+     "en": "A · B"
+    },
+    "pack": {
+     "vi": "Bó 20 cành",
+     "en": "Bunch of 20"
+    },
+    "length": {
+     "vi": "50 - 60 cm",
+     "en": "50 - 60 cm"
+    },
+    "vase": {
+     "vi": "10 - 14 ngày",
+     "en": "10 - 14 days"
+    },
+    "months": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "art": [
+     "ranunculus",
+     "#FF5C8A"
+    ],
+    "visible": true
+   },
+   {
+    "id": "ws20",
+    "name": {
+     "vi": "Lá phụ trang trí (dương xỉ, cẩm thạch...)",
+     "en": "Decorative foliage (fern, ruscus...)"
+    },
+    "grade": {
+     "vi": "A · B",
+     "en": "A · B"
+    },
+    "pack": {
+     "vi": "Bó",
+     "en": "Bunch"
+    },
+    "length": {
+     "vi": "40 - 70 cm",
+     "en": "40 - 70 cm"
+    },
+    "vase": {
+     "vi": "10 - 20 ngày",
+     "en": "10 - 20 days"
+    },
+    "months": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "art": [
+     "fern",
+     "#3F9E5A"
+    ],
+    "visible": true
    }
   ]
+ },
+ "export": {
+  "title": {
+   "vi": "Xuất khẩu hoa tươi Đà Lạt",
+   "en": "Da Lat fresh flowers for export"
+  },
+  "intro": {
+   "vi": "Cung ứng hoa cắt cành cho nhà nhập khẩu, nhà bán buôn và chuỗi bán lẻ nước ngoài. Hoa được phân hạng theo yêu cầu từng thị trường, tiền làm lạnh, đóng thùng xuất khẩu và vận chuyển bằng đường hàng không từ TP. Hồ Chí Minh. Tiệm phối hợp hoàn thiện chứng từ để lô hàng thông quan thuận lợi.",
+   "en": "Cut flowers for importers, wholesalers and retail chains abroad. Graded to each market's specification, pre-cooled, export-boxed and flown out of Ho Chi Minh City. We work with you on the paperwork so every shipment clears customs smoothly."
+  },
+  "markets": [
+   {
+    "code": "JP",
+    "name": {
+     "vi": "Nhật Bản",
+     "en": "Japan"
+    }
+   },
+   {
+    "code": "KR",
+    "name": {
+     "vi": "Hàn Quốc",
+     "en": "South Korea"
+    }
+   },
+   {
+    "code": "TW",
+    "name": {
+     "vi": "Đài Loan",
+     "en": "Taiwan"
+    }
+   },
+   {
+    "code": "CN",
+    "name": {
+     "vi": "Trung Quốc & Hồng Kông",
+     "en": "China & Hong Kong"
+    }
+   },
+   {
+    "code": "SG",
+    "name": {
+     "vi": "Singapore",
+     "en": "Singapore"
+    }
+   },
+   {
+    "code": "AU",
+    "name": {
+     "vi": "Úc",
+     "en": "Australia"
+    }
+   },
+   {
+    "code": "KH",
+    "name": {
+     "vi": "Campuchia & Lào",
+     "en": "Cambodia & Laos"
+    }
+   },
+   {
+    "code": "AE",
+    "name": {
+     "vi": "Trung Đông",
+     "en": "Middle East"
+    }
+   }
+  ],
+  "lines": [
+   {
+    "name": {
+     "vi": "Cúc chùm & cúc đơn",
+     "en": "Spray & disbud chrysanthemums"
+    },
+    "spec": {
+     "vi": "70 - 80 cm · bó 10 cành",
+     "en": "70 - 80 cm · 10-stem bunches"
+    },
+    "art": [
+     "daisy",
+     "#FFFFFF"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Cẩm chướng",
+     "en": "Carnations"
+    },
+    "spec": {
+     "vi": "50 - 60 cm · bó 20 cành",
+     "en": "50 - 60 cm · 20-stem bunches"
+    },
+    "art": [
+     "ranunculus",
+     "#FF5C8A"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Hồng Đà Lạt",
+     "en": "Da Lat roses"
+    },
+    "spec": {
+     "vi": "50 - 80 cm · bó 10 / 20 cành",
+     "en": "50 - 80 cm · 10 / 20-stem bunches"
+    },
+    "art": [
+     "rose",
+     "#D7193F"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Cát tường kép",
+     "en": "Double lisianthus"
+    },
+    "spec": {
+     "vi": "60 - 70 cm · bó 10 cành",
+     "en": "60 - 70 cm · 10-stem bunches"
+    },
+    "art": [
+     "lisianthus",
+     "#C9A7FF"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Cẩm tú cầu",
+     "en": "Hydrangea"
+    },
+    "spec": {
+     "vi": "Bông 18 - 25 cm · thùng xếp lớp",
+     "en": "18 - 25 cm heads · layered boxes"
+    },
+    "art": [
+     "hydrangea",
+     "#7FA8FF"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Baby & hoa phụ",
+     "en": "Baby's breath & fillers"
+    },
+    "spec": {
+     "vi": "60 - 70 cm · bó theo khối lượng",
+     "en": "60 - 70 cm · bunched by weight"
+    },
+    "art": [
+     "baby",
+     "#FFFFFF"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Cúc pingpong",
+     "en": "Ping-pong chrysanthemum"
+    },
+    "spec": {
+     "vi": "60 - 70 cm · bó 10 cành",
+     "en": "60 - 70 cm · 10-stem bunches"
+    },
+    "art": [
+     "pingpong",
+     "#B8E07A"
+    ]
+   },
+   {
+    "name": {
+     "vi": "Lá phụ trang trí",
+     "en": "Decorative foliage"
+    },
+    "spec": {
+     "vi": "40 - 70 cm · bó",
+     "en": "40 - 70 cm · bunches"
+    },
+    "art": [
+     "fern",
+     "#3F9E5A"
+    ]
+   }
+  ],
+  "perks": [
+   {
+    "icon": "award",
+    "title": {
+     "vi": "Phân hạng theo thị trường",
+     "en": "Graded to market specs"
+    },
+    "text": {
+     "vi": "Chiều dài cành, đường kính bông, độ nở và số cành mỗi bó theo yêu cầu của nhà nhập khẩu.",
+     "en": "Stem length, head size, opening stage and stems per bunch to the importer's specification."
+    }
+   },
+   {
+    "icon": "snow",
+    "title": {
+     "vi": "Tiền làm lạnh, chuỗi lạnh liên tục",
+     "en": "Pre-cooled, unbroken cold chain"
+    },
+    "text": {
+     "vi": "Hạ nhiệt về 2°C - 5°C ngay sau khi cắt và giữ lạnh tới khi bàn giao cho hãng bay.",
+     "en": "Brought down to 2°C - 5°C right after cutting and kept cold until handover to the airline."
+    }
+   },
+   {
+    "icon": "box",
+    "title": {
+     "vi": "Đóng thùng xuất khẩu",
+     "en": "Export-grade packing"
+    },
+    "text": {
+     "vi": "Thùng carton chuyên dụng, bọc sleeve, đá gel, nhãn tiếng Anh và mã lô truy xuất nguồn gốc.",
+     "en": "Purpose-made cartons, sleeves, gel ice, English labels and traceable batch codes."
+    }
+   },
+   {
+    "icon": "plane",
+    "title": {
+     "vi": "Hàng không & theo dõi lô hàng",
+     "en": "Air freight & shipment tracking"
+    },
+    "text": {
+     "vi": "Đặt chỗ, phát hành vận đơn (AWB) và cập nhật lịch bay tới khi hàng đến sân bay đích.",
+     "en": "Space booking, air waybill (AWB) and flight updates until arrival at the destination airport."
+    }
+   }
+  ],
+  "docs": [
+   {
+    "name": {
+     "vi": "Giấy chứng nhận kiểm dịch thực vật (Phytosanitary Certificate)",
+     "en": "Phytosanitary certificate"
+    }
+   },
+   {
+    "name": {
+     "vi": "Giấy chứng nhận xuất xứ (C/O) theo hiệp định thương mại",
+     "en": "Certificate of origin (C/O) under trade agreements"
+    }
+   },
+   {
+    "name": {
+     "vi": "Hóa đơn thương mại (Commercial Invoice)",
+     "en": "Commercial invoice"
+    }
+   },
+   {
+    "name": {
+     "vi": "Phiếu đóng gói (Packing List)",
+     "en": "Packing list"
+    }
+   },
+   {
+    "name": {
+     "vi": "Vận đơn hàng không (Air Waybill)",
+     "en": "Air waybill (AWB)"
+    }
+   }
+  ],
+  "terms": [
+   {
+    "label": {
+     "vi": "Điều kiện giao hàng",
+     "en": "Delivery terms"
+    },
+    "value": {
+     "vi": "EXW Đà Lạt · FCA sân bay Tân Sơn Nhất (SGN) · CPT/CIP sân bay đích",
+     "en": "EXW Da Lat · FCA Tan Son Nhat airport (SGN) · CPT/CIP destination airport"
+    }
+   },
+   {
+    "label": {
+     "vi": "Thanh toán",
+     "en": "Payment"
+    },
+    "value": {
+     "vi": "T/T hoặc L/C theo thỏa thuận",
+     "en": "T/T or L/C as agreed"
+    }
+   },
+   {
+    "label": {
+     "vi": "Lô mẫu",
+     "en": "Samples"
+    },
+    "value": {
+     "vi": "Ảnh, video lô hàng và lô thử nghiệm theo thỏa thuận",
+     "en": "Shipment photos, videos and trial shipments as agreed"
+    }
+   }
+  ],
+  "steps": [
+   {
+    "title": {
+     "vi": "Gửi yêu cầu: loại hoa, quy cách, số lượng, thị trường",
+     "en": "Send your request: varieties, specs, volume, market"
+    }
+   },
+   {
+    "title": {
+     "vi": "Nhận báo giá và lô mẫu",
+     "en": "Receive a quote and samples"
+    }
+   },
+   {
+    "title": {
+     "vi": "Ký hợp đồng, xác nhận thanh toán",
+     "en": "Sign the contract, confirm payment"
+    }
+   },
+   {
+    "title": {
+     "vi": "Cắt, phân hạng, tiền làm lạnh",
+     "en": "Cut, graded and pre-cooled"
+    }
+   },
+   {
+    "title": {
+     "vi": "Kiểm dịch, chứng từ, đóng thùng",
+     "en": "Inspection, documents, packing"
+    }
+   },
+   {
+    "title": {
+     "vi": "Bay và theo dõi tới khi nhận hàng",
+     "en": "Flown and tracked until delivery"
+    }
+   }
+  ],
+  "note": {
+   "vi": "Quy định nhập khẩu hoa tươi (kiểm dịch, danh mục loài được phép, chứng từ) khác nhau ở mỗi quốc gia. Tiệm sẽ cùng nhà nhập khẩu xác nhận yêu cầu trước khi chốt lô hàng đầu tiên.",
+   "en": "Import rules for fresh flowers (inspection, permitted species, documents) differ by country. We confirm the requirements with the importer before the first shipment is booked."
+  }
  },
  "faq": [
   {
    "q": {
-    "vi": "Vì sao website không hiển thị giá?",
-    "en": "Why are there no prices on the website?"
+    "vi": "Vì sao website không hiển thị giá sỉ?",
+    "en": "Why are there no wholesale prices on the website?"
    },
    "a": {
-    "vi": "Giá hoa Đà Lạt thay đổi theo mùa vụ và có thể tăng 30% - 100% vào các dịp 14/2, 8/3, 20/10, 20/11 và Tết. Để có báo giá chính xác theo ngày giao, vui lòng gọi hoặc nhắn Zalo {phone}, tiệm phản hồi trong vài phút.",
-    "en": "Da Lat flower prices follow the harvest and can rise 30% - 100% around 14 February, 8 March, 20 October, 20 November and Tet. For an exact quote for your delivery date, call or message us on Zalo at {phone} and we will reply within minutes."
+    "vi": "Giá hoa Đà Lạt thay đổi theo ngày, theo hạng hoa và tăng mạnh vào các dịp 14/2, 8/3, 20/10, 20/11 và Tết. Để có báo giá chính xác theo ngày lấy hàng, vui lòng gọi hoặc nhắn Zalo {phone}, tiệm phản hồi trong vài phút.",
+    "en": "Da Lat flower prices change daily, by grade, and rise sharply around 14 February, 8 March, 20 October, 20 November and Tet. For an exact quote for your shipping date, call or message us on Zalo at {phone} and we will reply within minutes."
    }
   },
   {
    "q": {
-    "vi": "Tôi có được xem ảnh hoa thật trước khi giao không?",
-    "en": "Can I see a real photo before delivery?"
+    "vi": "Số lượng đặt tối thiểu là bao nhiêu?",
+    "en": "What is the minimum order quantity?"
    },
    "a": {
-    "vi": "Có. Khi hoàn thiện, tiệm chụp ảnh thật và gửi qua Zalo hoặc đăng lên mục Tra cứu đơn để bạn bấm duyệt hoặc yêu cầu chỉnh sửa.",
-    "en": "Yes. When your order is ready we take a real photo and send it on Zalo or post it to Order tracking, where you can approve it or ask for changes."
+    "vi": "Một đơn sỉ có thể phối nhiều loại hoa. Mức tối thiểu tùy loại hoa và hình thức vận chuyển; với đơn xuất khẩu, số lượng tính theo thùng và tuyến bay. Tiệm sẽ báo cụ thể khi nhận yêu cầu.",
+    "en": "One wholesale order can mix several varieties. The minimum depends on the varieties and the shipping method; export orders are counted in boxes per flight route. We will confirm the exact minimum when we receive your request."
    }
   },
   {
    "q": {
-    "vi": "Tiệm giao hoa ở đâu và mất bao lâu?",
-    "en": "Where do you deliver and how long does it take?"
+    "vi": "Giao hàng đi các tỉnh như thế nào?",
+    "en": "How do you ship to other provinces?"
    },
    "a": {
-    "vi": "Tiệm giao nhanh trong nội thành Đà Lạt. Với các tỉnh, thành khác, hoa được đóng thùng giữ lạnh 2°C - 5°C và gửi xe hoặc máy bay; thời gian tùy điểm đến, tiệm sẽ báo cụ thể khi bạn đặt.",
-    "en": "We offer express delivery within Da Lat. For other provinces and cities, flowers are cold-packed at 2°C - 5°C and sent by road or air; timing depends on the destination and we will confirm it when you order."
+    "vi": "Hoa được đóng thùng giữ lạnh và gửi xe lạnh, xe khách, chành xe hoặc hàng không qua sân bay Liên Khương. Hàng xuất kho trong ngày cắt; thời gian tới nơi tùy điểm đến và tiệm báo cụ thể khi chốt đơn, kèm ảnh lô hàng và mã vận đơn.",
+    "en": "Flowers are packed in insulated boxes and sent by refrigerated truck, coach, freight forwarder or air via Lien Khuong airport. Shipments leave on the day of cutting; transit time depends on the destination and we confirm it when you order, with shipment photos and a tracking number."
    }
   },
   {
    "q": {
-    "vi": "Tôi muốn tặng ẩn danh được không?",
-    "en": "Can I send flowers anonymously?"
+    "vi": "Xuất khẩu cần những chứng từ gì?",
+    "en": "Which documents are needed for export?"
    },
    "a": {
-    "vi": "Được. Hãy chọn ô Đặt hoa ẩn danh khi gửi yêu cầu, tiệm sẽ không tiết lộ tên người gửi cho người nhận.",
-    "en": "Yes. Tick Send anonymously when you submit your request and we won't reveal the sender's name to the recipient."
+    "vi": "Thông thường gồm Giấy chứng nhận kiểm dịch thực vật (Phytosanitary Certificate), Giấy chứng nhận xuất xứ (C/O), hóa đơn thương mại, phiếu đóng gói và vận đơn hàng không. Mỗi nước có quy định riêng, vì vậy tiệm sẽ cùng nhà nhập khẩu xác nhận yêu cầu trước lô hàng đầu tiên.",
+    "en": "Usually a phytosanitary certificate, a certificate of origin (C/O), a commercial invoice, a packing list and an air waybill. Each country has its own rules, so we confirm the requirements with the importer before the first shipment."
    }
   },
   {
    "q": {
-    "vi": "Thanh toán bằng cách nào?",
-    "en": "How can I pay?"
+    "vi": "Có giao theo điều kiện EXW, FCA, CPT hoặc CIP không?",
+    "en": "Do you ship on EXW, FCA, CPT or CIP terms?"
    },
    "a": {
-    "vi": "Chuyển khoản ngân hàng, ví điện tử hoặc tiền mặt khi nhận (tùy đơn). Tiệm gửi thông tin thanh toán khi xác nhận đơn với bạn.",
-    "en": "Bank transfer, e-wallet or cash on delivery (depending on the order). We send payment details when we confirm your order."
+    "vi": "Có thể thỏa thuận EXW tại Đà Lạt, FCA tại sân bay Tân Sơn Nhất (SGN) hoặc CPT/CIP tới sân bay đích, tùy thị trường và khối lượng mỗi chuyến.",
+    "en": "We can agree EXW Da Lat, FCA Tan Son Nhat airport (SGN) or CPT/CIP to your destination airport, depending on the market and the volume per shipment."
    }
   },
   {
    "q": {
-    "vi": "Làm sao để hoa tươi lâu?",
-    "en": "How do I keep my flowers fresh longer?"
+    "vi": "Thanh toán và công nợ thế nào?",
+    "en": "What are the payment terms?"
    },
    "a": {
-    "vi": "Mỗi đơn hoa đều kèm gói dưỡng và hướng dẫn chăm sóc. Bạn có thể xem cách chăm từng loại trong mục Từ điển hoa.",
-    "en": "Every order comes with flower food and care instructions. You can look up how to care for each variety in the Flower dictionary."
+    "vi": "Đơn trong nước thanh toán chuyển khoản; khách định kỳ có thể thỏa thuận công nợ theo hợp đồng. Đơn xuất khẩu thanh toán T/T hoặc L/C theo thỏa thuận.",
+    "en": "Domestic orders are paid by bank transfer; regular partners can agree credit terms in the contract. Export orders are paid by T/T or L/C as agreed."
    }
   },
   {
    "q": {
-    "vi": "Hoa hết mùa thì sao?",
-    "en": "What if a flower is out of season?"
+    "vi": "Nếu hoa bị dập, hỏng khi nhận thì sao?",
+    "en": "What if flowers arrive damaged?"
    },
    "a": {
-    "vi": "Một số hoa như mao lương, tulip, địa lan chỉ có theo mùa. Bạn vẫn có thể đặt trước, hoặc tiệm gợi ý loại hoa có form tương tự như cát tường xoắn, hồng Ohara.",
-    "en": "Some flowers such as ranunculus, tulips and cymbidiums are seasonal. You can pre-order them, or we will suggest a similar form such as double lisianthus or Ohara roses."
+    "vi": "Vui lòng chụp ảnh hoặc quay video khi mở thùng và báo cho tiệm ngay trong ngày nhận hàng. Tiệm đối chiếu với ảnh lô hàng trước khi xuất kho để xử lý đổi bù hoặc hoàn tiền theo thỏa thuận.",
+    "en": "Please take photos or a video when you open the box and tell us on the day of delivery. We compare them with our pre-dispatch shipment photos and replace or refund as agreed."
    }
   },
   {
    "q": {
-    "vi": "Tiệm có bán sỉ hoa cho cửa hàng và doanh nghiệp không?",
-    "en": "Do you sell wholesale to shops and businesses?"
+    "vi": "Có nhận đóng gói, dán nhãn riêng cho chuỗi bán lẻ không?",
+    "en": "Can you pack and label for retail chains?"
    },
    "a": {
-    "vi": "Có. Xem mục Bán buôn để chọn loại hoa, số bó và gửi yêu cầu, hoặc nhắn Zalo {phone} để nhận bảng giá sỉ theo ngày.",
-    "en": "Yes. Use the Wholesale section to pick varieties and bunch quantities and send a request, or message us on Zalo at {phone} for the day's wholesale price list."
+    "vi": "Có. Tiệm bó theo số cành, bọc sleeve in logo, dán mã vạch hoặc nhãn mã lô và hướng dẫn bảo quản theo yêu cầu của từng chuỗi.",
+    "en": "Yes. We bunch to your stem count, use logo-printed sleeves and add barcodes or batch labels and care instructions to each chain's requirements."
    }
   },
   {
    "q": {
-    "vi": "Đặt hoa gấp trong ngày được không?",
-    "en": "Can I order for same-day delivery?"
+    "vi": "Có giữ hàng cho mùa cao điểm không?",
+    "en": "Can you reserve stock for peak seasons?"
    },
    "a": {
-    "vi": "Được với nội thành Đà Lạt. Hãy gọi trực tiếp {phone} để tiệm kiểm tra hoa có sẵn và sắp xếp giao sớm nhất.",
-    "en": "Yes, within Da Lat. Call us directly at {phone} so we can check what's available and arrange the earliest delivery."
+    "vi": "Có. Nên đặt trước 2 - 4 tuần cho 14/2, 8/3, 20/10, 20/11, Tết và mùa cưới để tiệm giữ hàng với nhà vườn.",
+    "en": "Yes. Book 2 - 4 weeks ahead for 14 February, 8 March, 20 October, 20 November, Tet and wedding season so we can reserve stock with our growers."
+   }
+  },
+  {
+   "q": {
+    "vi": "Cửa hàng còn bán lẻ và nhận hoa cưới không?",
+    "en": "Do you still sell retail and wedding flowers?"
+   },
+   "a": {
+    "vi": "Có. Cửa hàng tại đường Tô Ngọc Vân vẫn thiết kế bó hoa, hoa cưới, kệ khai trương và giao nhanh trong Đà Lạt. Xem mục Hoa bán lẻ hoặc gọi {phone}.",
+    "en": "Yes. Our shop on To Ngoc Van Street still designs bouquets, wedding flowers and opening stands, with fast delivery in Da Lat. See Retail flowers or call {phone}."
    }
   }
  ],
